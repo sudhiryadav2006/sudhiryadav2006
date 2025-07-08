@@ -1,3 +1,4 @@
+![logo](https://github.com/sudhiryadav2006/sudhiryadav2006/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Sudhir Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
